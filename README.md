@@ -7,7 +7,7 @@ the board; you build the maze it has to walk through and the towers that
 shoot it on the way. Every five waves you are dealt a hand of augments that
 change how the run plays, and no two runs deal the same ones.
 
-**[Download the latest build for Windows](https://github.com/soluxos/CalTD/releases/latest/download/CalTD.exe)** (version 0.61.2)
+**[Download the latest build for Windows](https://github.com/soluxos/CalTD/releases/latest/download/CalTD.exe)** (version 0.62.0)
 
 Every build, with what changed in each, is on the [releases page](https://github.com/soluxos/CalTD/releases).
 
